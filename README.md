@@ -13,6 +13,7 @@ Coordination Finder runs on both Windows and Mac OSX. It can be run from the con
 
 ##Starting CoFi
 Download and unzip the folder `Coordination Finder` and navigate into it. Then run the following commands from the console:
+
 For Mac:
 ```
 python -m pip install PyQt4
