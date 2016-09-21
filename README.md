@@ -8,6 +8,7 @@ Coordination Finder does the following:
 * Visualize history information from mouse embryonic stem cell lineages.
 * Computation of changepoints in the time series.
 * Provide expert feedback to measure the quality of the algorithm.
+
 Coordination Finder runs on both Windows and Mac OSX. It can be run from the console. The requirements are having the newest version of Python installed as well as the PyQT4 package. By default, there is one test data set ready (*Simlation.csv*)
 
 ##Starting CoFi
