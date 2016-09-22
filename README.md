@@ -1,7 +1,7 @@
 # CoFi
-Visualization and analysis of data sets containing time series with history information
+Visualization and analysis of time series with history information
 
-**Coordination Finder (CoFi) is a program motivated by the recent work of the Schroeder group of ETHZ. CoFi takes protein expression levels of single-cell imaging as input and provides methods to extract information from the data.**
+**Coordination Finder (CoFi) is a program motivated by the recent work of the Schroeder group of ETHZ. CoFi takes protein expression levels of single-cell imaging as input and provides methods to extract information about clusteirng and coordination.**
 
 Coordination Finder does the following:
 * Cluster time series data. It may consist of multiple, independent dimensions.
