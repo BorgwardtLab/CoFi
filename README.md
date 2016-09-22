@@ -9,7 +9,7 @@ Coordination Finder does the following:
 * Computation of changepoints in the time series.
 * Provide expert feedback to measure the quality of the algorithm.
 
-Coordination Finder runs on both Windows and Mac OSX. It can be run from the console. The requirements are having the newest version of Python installed as well as the PyQT4 package. By default, there is one test data set ready (*Simlation.csv*)
+Coordination Finder runs on both Windows and Mac OSX. It can be run from the console. The requirements are Python and the PyQT4 package. By default, there is one test data set ready (*Simlation.csv*).
 
 ##Starting CoFi
 Download and unzip the folder `Coordination Finder` and navigate into it. Then run the following commands from the console:
