@@ -12,6 +12,7 @@ Coordination Finder does the following:
 Coordination Finder runs on both Windows and Mac OSX. It can be run from the console. The requirements are Python and the PyQT4 package. By default, there is one test data set ready (*Simlation.csv*).
 
 ##Starting CoFi
+WARNING: OUTDATED, this only works for Python 2.7!
 Download and unzip the folder `Coordination Finder` and navigate into it. Then run the following commands from the console:
 
 For Mac:
@@ -19,6 +20,15 @@ For Mac:
 python -m pip install PyQt4
 python CoordinationFinder.py
 ```
+
+For Python 3, install MacPorts by downloading the correct package from https://guide.macports.org/chunked/installing.macports.html
+Then:
+```
+echo 'export PATH=/usr/local/bin:$PATH' >>~/.bash_profile
+sudo port install py34-pyqt4
+python CoordinationFinder.py
+```
+
 For Windows:
 ```
 pip install PyQt4
