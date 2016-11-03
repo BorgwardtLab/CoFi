@@ -17,7 +17,7 @@ WARNING: OUTDATED, this only works for Python 2.7!
 
 Download and unzip the folder `Coordination Finder` and navigate into it. Then run the following commands from the console:
 
-For Mac:
+For **Mac**:
 ```
 python -m pip install PyQt4
 python CoordinationFinder.py
@@ -32,7 +32,7 @@ sudo port install py34-pyqt4
 python CoordinationFinder.py
 ```
 
-For Windows:
+For **Windows**:
 ```
 pip install PyQt4
 start CoordinationFinder.py
