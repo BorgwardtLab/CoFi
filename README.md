@@ -22,6 +22,7 @@ python CoordinationFinder.py
 ```
 
 For Python 3, install MacPorts by downloading the correct package from https://guide.macports.org/chunked/installing.macports.html
+
 Then:
 ```
 echo 'export PATH=/usr/local/bin:$PATH' >>~/.bash_profile
